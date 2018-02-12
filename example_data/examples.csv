@@ -1,0 +1,151 @@
+example,intent
+i'm here to buy a car,SHOP
+i'd like to buy a new car,SHOP
+i need to get a truck,SHOP
+can i test drive a vehicle,SHOP
+i would like to buy a new vehicle,SHOP
+i want to shop for a car,SHOP
+i want a new car,SHOP
+new car,SHOP
+buy new car,SHOP
+shop for a car,SHOP
+can you help me find a truck,SHOP
+can you help me find a new van,SHOP
+i want to buy a van,SHOP
+i want to buy an SUV,SHOP
+i want an SUV,SHOP
+can you help me find a crossover,SHOP
+i want a crossover,SHOP
+i need to buy a new car,SHOP
+my old car died and i need a new one,SHOP
+my old car was totalled,SHOP
+my old car no longer works,SHOP
+i want to upgrade my car,SHOP
+i want to upgrade my truck,SHOP
+my car is too small,SHOP
+my car is too old,SHOP
+my truck is old,SHOP
+i want something fun,SHOP
+can i test drive something,SHOP
+what kind of cars do you have,SHOP
+do you know the best car for me,SHOP
+i want to get a new convertible,SHOP
+i want a sports car,SHOP
+can i see the latest models,SHOP
+do you have new cars in stock,SHOP
+i want a used car,SHOP
+are there are any used trucks,SHOP
+do you have a used truck,SHOP
+i want a more reliable car,SHOP
+my car is not relaible anymore,SHOP
+my car is too old,SHOP
+i don't like my old truck,SHOP
+my old truck needs to be replaced,SHOP
+i need a new ride,SHOP
+can you help me find a cool car,SHOP
+i want a brand new car,SHOP
+my car is broken,SERVICE
+my car is making a strange noise,SERVICE
+my truck won't start,SERVICE
+my truck is making noises,SERVICE
+my truck is smoking,SERVICE
+my van got hit,SERVICE
+i got into an accident,SERVICE
+my van wont turn on,SERVICE
+my crossover is leaking oil,SERVICE
+i think i need some service,SERVICE
+i need service,SERVICE
+my new car is making noise,SERVICE
+my new truck is making noise,SERVICE
+my new crossover has a problem,SERVICE
+there is a problem with my car,SERVICE
+i need a new muffler,SERVICE
+i need a new tail light,SERVICE
+i need a new engine,SERVICE
+i need an oil change,SERVICE
+i want an oil change,SERVICE
+i want you to inspect my car,SERVICE
+i want you to take a look at my truck,SERVICE
+can you look at my truck,SERVICE
+i just bought a new truck and it has problems,SERVICE
+i need some help with my vehicle,SERVICE
+i need a repair,SERVICE
+can you repair my new car,SERVICE
+can you repair my new truck,SERVICE
+repair my van,SERVICE
+repair my SUV,SERVICE
+my SUV is broken,SERVICE
+my SUV won't start,SERVICE
+my SUV is making noise,SERVICE
+my SUV has a problem with the locks,SERVICE
+there is a light on my dashboard,SERVICE
+my car is beeping at me,SERVICE
+i have a question about my warranty,SERVICE
+i need to use my warranty,SERVICE
+can i use my warranty,SERVICE
+is my car totalled?,SERVICE
+is my truck totalled?,SERVICE
+did i total my SUV,SERVICE
+i have a scratch on my car,SERVICE
+my truck got scratched,SERVICE
+my SUV has a dent,SERVICE
+my van is dented,SERVICE
+i need a checkup,SERVICE
+my truck needs a checkup,SERVICE
+can you tune up my car,SERVICE
+can you tune up my van,SERVICE
+my car has some issues,SERVICE
+can you replace my muffler,SERVICE
+can you replace my air filter,SERVICE
+can you replace my engine,SERVICE
+i'm out of blinker fluid,SERVICE
+i need a new tire,SERVICE
+i need a new wheel,SERVICE
+i need new tires,SERVICE
+my tires are really old,SERVICE
+how much for the new car,QUOTE
+what can you sell a van for,QUOTE
+what is your best price for a truck,QUOTE
+how much for an SUV,QUOTE
+how much is a new van,QUOTE
+how much does a crossover cost,QUOTE
+how expensive is a truck,QUOTE
+what does a new truck cost,QUOTE
+what does a truck go for,QUOTE
+how much are you selling vans for,QUOTE
+how much does your truck cost,QUOTE
+how much more expensive are trucks than cars,QUOTE
+what is your cheapest car,QUOTE
+what is your most expensive truck,QUOTE
+what is the most expensive car,QUOTE
+what is the cost of a crossover,QUOTE
+how much is a van,QUOTE
+price of a van,QUOTE
+price of truck,QUOTE
+what is the truck price,QUOTE
+what is the van price,QUOTE
+what is the cosst of the car,QUOTE
+can i get a quote for a new car,QUOTE
+can i get a quote for a truck,QUOTE
+i want a quote for a new SUV,QUOTE
+can you give me a quote on a truck,QUOTE
+i need to know the price of a car,QUOTE
+i want to know the cost of a vehicle,QUOTE
+can you tell me the vehicle price,QUOTE
+how much for a vehicle,QUOTE
+i need a quote,QUOTE
+can you give me a quote,QUOTE
+quote me for a truck,QUOTE
+quote me for a van,QUOTE
+what is your best deal on a truck,QUOTE
+what is your best deal on a car,QUOTE
+could you give me a quote,QUOTE
+i want to know your price for a truck,QUOTE
+i want to know your quote for a new car,QUOTE
+i want a quote on a new vehicle,QUOTE
+how much are you charging for a new SUV,QUOTE
+what does it cost to get an SUV,QUOTE
+what does it cost to buy a car,QUOTE
+i need the price of an SUV,QUOTE
+i need a price,QUOTE
+i need to know your price,QUOTE
