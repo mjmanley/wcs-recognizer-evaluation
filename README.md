@@ -6,7 +6,7 @@ There are two ways to use the notebook. The model can be provided a set of data 
 
 Alternatively, the notebook can use CSV data set that represents the test data. In this case, the existing model will not be retrained, but instead will only be evaluated using the provided training set.
 
-**The notebook available** [**here**](./Evaluate WCS Performance.ipynb)
+The notebook available [**here**](./evaluate_wcs_performance.ipynb)
 
 A sample out the output is shown below.
 
